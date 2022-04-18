@@ -1,4 +1,4 @@
-# zoep
+# zoeppritz
 This is a equation about zoep and konnt.
 # zoeppritz和konnt方程求解
 ## 1. 使用必备
